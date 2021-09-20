@@ -19,6 +19,7 @@ Ademais, ainda terá uma gamificação do sistema a fim de estimular as ações 
 	
    - React
    - Typescript
+   - Javascript
    - Chakra UI
    - Framer motion
    - Emotion
