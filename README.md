@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+<div align="center"> 
+	<h1>Side by Side</h1>
+</div> 
+	
+<p>
+  Projeto desenvolvido com o objetivo de praticar a criação de interfaces em equipe usando React e Typescript. Trata-se de um sistema que objetiva reunir informações de pontos de coleta seletiva espalhados pelo mundo a fim de facilitar uma parte do processo de realização de coleta pelos cidadãos que é a busca por pontos na cidade. Além disso, permite que os usuários marquem pontos que ainda não estejam no mapa e, também, podem marcar eventos ecológicos como, por exemplo, limpeza em alguma praia. E, dessa forma, outros usuários podem visualizar e optar por participar desse eveto.  
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3> 🚀 Tecnologias utilizadas </h3> 
 
-## Available Scripts
+<details>
+	<summary>Frontend</summary>
+	
+   - React
+   - Typescript
+   - Chakra UI
+   - Framer motion
+   - Emotion
+   - React Icons
+   - Axios 
+   - JWT-Decode
+   - React Hook Form
+   - React Router Dom
+   - React Google Maps
+   - React Scroll Parallax
+</details>
 
-In the project directory, you can run:
+<details>
+	<summary>Backend</summary>
 
-### `yarn start`
+   - Google Maps API
+   - [Backend fake feita pelo grupo no JSON Server](https://capstone-group2.herokuapp.com/)
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h3> 💻 Desenvolvedores </h3>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div> 
+  <a href="https://www.linkedin.com/in/ayana-mello/">Ayana Mello</a>
+  | <a href="https://www.linkedin.com/in/gabriel-bueno-11227a209/">Gabriel Bueno</a>
+  | <a href="https://www.linkedin.com/in/lucas-bravo-rozado-a80b36213/">Lucas Bravo Rozado</a>
+  | <a href="https://www.linkedin.com/in/mgavadev/">Mateus Gava</a>
+  | <a href="#">Victor Martins</a>
+</div>
