@@ -1,4 +1,5 @@
 <div align="center"> 
+	<img src="./src/assets/images/logo-desktop.png" width="100px"/>
 	<h1>Side by Side</h1>
 </div> 
 	
