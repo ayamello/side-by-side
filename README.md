@@ -47,5 +47,5 @@ Ademais, ainda terá uma gamificação do sistema a fim de estimular as ações 
   | <a href="https://www.linkedin.com/in/gabriel-bueno-11227a209/">Gabriel Bueno</a>
   | <a href="https://www.linkedin.com/in/lucas-bravo-rozado-a80b36213/">Lucas Bravo Rozado</a>
   | <a href="https://www.linkedin.com/in/mgavadev/">Mateus Gava</a>
-  | <a href="#">Victor Martins</a>
+  | <a href="https://www.linkedin.com/in/victor--martins/">Victor Martins</a>
 </div>
